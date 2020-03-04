@@ -30,3 +30,6 @@
 ### 常见案例4
 因为最近疫情卖口罩诈骗
 
+### 常见案例截图
+![case](https://github.com/OverseaScams/WechatScams/blob/master/case.jpg)
+
