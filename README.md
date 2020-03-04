@@ -5,7 +5,7 @@
 同时因为微信注册流程并不简单, 这样也可提高诈骗成本, 减少诈骗.
 
 ### 如何查看?
-比如你看到换汇的人的微信ID为`tdcrnd2t`, 到页面 https://github.com/OverseaScams/WechatScams/issues 搜索`tdcrnd2t`, 可以搜到https://github.com/OverseaScams/WechatScams/issues/1, 查看别人发的截图, 自己判断是否可信.
+比如你看到换汇的人的微信ID为`tdcrnd2t`, 到页面 https://github.com/OverseaScams/WechatScams/issues 搜索`tdcrnd2t`, 可以搜到https://github.com/OverseaScams/WechatScams/issues/1, 查看别人发的曝光截图, 自己判断是否可信.
 
 可能会有误判, 请提高警觉, 自行判断.
 
